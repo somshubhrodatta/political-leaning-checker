@@ -1,0 +1,6 @@
+**/venv/
+**/.venv/
+**/__pycache__/
+**/migrations/
+**/chatbot_project/db.sqlite3
+__init__.py
