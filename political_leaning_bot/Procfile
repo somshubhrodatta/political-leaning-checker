@@ -1,0 +1,1 @@
+web: gunicorn political_leaning_bot.wsgi
